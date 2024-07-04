@@ -1,9 +1,9 @@
-package com.ahmedapps.geminichatbot
+package com.application.geminichat
 
 import android.graphics.Bitmap
 
 /**
- * @author Ahmed Guedmioui
+ * @author Truong Vu
  */
 sealed class ChatUiEvent {
     data class UpdatePrompt(val newPrompt: String) : ChatUiEvent()

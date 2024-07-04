@@ -1,10 +1,10 @@
-package com.ahmedapps.geminichatbot
+package com.application.geminichat
 
 import android.graphics.Bitmap
-import com.ahmedapps.geminichatbot.data.Chat
+import com.application.geminichat.data.Chat
 
 /**
- * @author Ahmed Guedmioui
+ * @author Truong Vu
  */
 data class ChatState (
     val chatList: MutableList<Chat> = mutableListOf(),

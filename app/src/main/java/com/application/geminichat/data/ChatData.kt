@@ -1,4 +1,4 @@
-package com.ahmedapps.geminichatbot.data
+package com.application.geminichat.data
 
 import android.graphics.Bitmap
 import com.google.ai.client.generativeai.GenerativeModel
@@ -8,7 +8,7 @@ import kotlinx.coroutines.Dispatchers
 import kotlinx.coroutines.withContext
 
 /**
- * @author Ahmed Guedmioui
+ * @author Truong Vu
  */
 object ChatData {
 

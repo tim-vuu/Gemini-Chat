@@ -1,9 +1,9 @@
-package com.ahmedapps.geminichatbot.data
+package com.application.geminichat.data
 
 import android.graphics.Bitmap
 
 /**
- * @author Ahmed Guedmioui
+ * @author Truong Vu
  */
 data class Chat (
     val prompt: String,

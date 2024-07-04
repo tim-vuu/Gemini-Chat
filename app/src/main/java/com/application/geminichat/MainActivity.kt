@@ -52,8 +52,8 @@ import coil.compose.AsyncImagePainter
 import coil.compose.rememberAsyncImagePainter
 import coil.request.ImageRequest
 import coil.size.Size
-import com.ahmedapps.geminichatbot.ui.theme.GeminiChatBotTheme
-import com.ahmedapps.geminichatbot.ui.theme.Green
+import com.application.geminichat.ui.theme.GeminiChatBotTheme
+import com.application.geminichat.ui.theme.Green
 import kotlinx.coroutines.flow.MutableStateFlow
 import kotlinx.coroutines.flow.update
 

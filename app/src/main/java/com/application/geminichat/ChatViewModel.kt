@@ -1,17 +1,17 @@
-package com.ahmedapps.geminichatbot
+package com.application.geminichat
 
 import android.graphics.Bitmap
 import androidx.lifecycle.ViewModel
 import androidx.lifecycle.viewModelScope
-import com.ahmedapps.geminichatbot.data.Chat
-import com.ahmedapps.geminichatbot.data.ChatData
+import com.application.geminichat.data.Chat
+import com.application.geminichat.data.ChatData
 import kotlinx.coroutines.flow.MutableStateFlow
 import kotlinx.coroutines.flow.asStateFlow
 import kotlinx.coroutines.flow.update
 import kotlinx.coroutines.launch
 
 /**
- * @author Ahmed Guedmioui
+ * @author Truong Vu
  */
 class ChatViewModel : ViewModel() {
 
